@@ -1,1 +1,7 @@
 This algorithm reads a mesh, renderize it, calculate the curvatures and automatically segment it
+developed in C++
+
+In data folder you can find some teeth mold samples.
+You can find the implemented classes in vertex.h, polygon.h and mesh.h
+
+Sorry, it is not very user friendly. You will have to make some modifications to use the classes for other purposes, but feel free to use the classes.
