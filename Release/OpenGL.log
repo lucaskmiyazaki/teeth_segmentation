@@ -1,0 +1,24 @@
+﻿  Mesh.cpp
+C:\Users\admin\Desktop\lucas\class\class1\prog1.5-1lines\prog1.5-1\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819:  The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+C:\Users\admin\Desktop\lucas\class\class1\prog1.5-1lines\prog1.5-1\Mesh.cpp(6,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): message :  see declaration of 'fopen'
+C:\Users\admin\Desktop\lucas\class\class1\prog1.5-1lines\prog1.5-1\Mesh.cpp(19,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\admin\Desktop\lucas\class\class1\prog1.5-1lines\prog1.5-1\Mesh.cpp(20,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\admin\Desktop\lucas\class\class1\prog1.5-1lines\prog1.5-1\Mesh.cpp(51,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\admin\Desktop\lucas\class\class1\prog1.5-1lines\prog1.5-1\Mesh.cpp(61,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\admin\Desktop\lucas\class\class1\prog1.5-1lines\prog1.5-1\Mesh.cpp(595,19): warning C4018:  '>': signed/unsigned mismatch
+C:\Users\admin\Desktop\lucas\class\class1\prog1.5-1lines\prog1.5-1\Mesh.cpp(595,61): warning C4018:  '>=': signed/unsigned mismatch
+  main.cpp
+C:\Users\admin\Desktop\lucas\class\class1\prog1.5-1lines\prog1.5-1\Mesh.cpp(664,29): warning C4018:  '<=': signed/unsigned mismatch
+C:\Users\admin\Desktop\lucas\class\class1\prog1.5-1lines\prog1.5-1\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819:  The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  Generating code
+C:\Users\admin\Desktop\lucas\class\class1\prog1.5-1lines\prog1.5-1\Mesh.cpp(578): warning C4724: potential mod by 0
+  5 of 6297 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    166 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OpenGL.vcxproj -> C:\Users\admin\Desktop\lucas\class\class1\prog1.5-1lines\prog1.5-1\Release\OpenGL.exe

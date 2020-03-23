@@ -1,0 +1,21 @@
+﻿  cl : Command line warning D9035 : option 'Gm' has been deprecated and will be removed in a future release
+  Vertex.cpp
+  Tools.cpp
+  Polygon.cpp
+  Mesh.cpp
+C:\Users\admin\Desktop\lucas\class\class1\prog1.5-1lines\prog1.5-1\Mesh.cpp(6,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): message :  see declaration of 'fopen'
+C:\Users\admin\Desktop\lucas\class\class1\prog1.5-1lines\prog1.5-1\Mesh.cpp(11,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\admin\Desktop\lucas\class\class1\prog1.5-1lines\prog1.5-1\Mesh.cpp(12,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\admin\Desktop\lucas\class\class1\prog1.5-1lines\prog1.5-1\Mesh.cpp(43,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\admin\Desktop\lucas\class\class1\prog1.5-1lines\prog1.5-1\Mesh.cpp(53,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  see declaration of 'fscanf'
+C:\Users\admin\Desktop\lucas\class\class1\prog1.5-1lines\prog1.5-1\Mesh.cpp(258,21): warning C4018:  '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+C:\Users\admin\Desktop\lucas\class\class1\prog1.5-1lines\prog1.5-1\Mesh.cpp(281,21): warning C4018:  '<': signed/unsigned mismatch
+main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  OpenGL.vcxproj -> C:\Users\admin\Desktop\lucas\class\class1\prog1.5-1lines\prog1.5-1\Debug\OpenGL.exe
